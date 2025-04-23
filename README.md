@@ -65,6 +65,7 @@ Follow these steps to set up the project locally:
    ```bash
    git clone https://github.com/Kawwshall/AqiExplorer.git
    cd AqiExplorer
+   cd project
    ```
 
 2. **Install Dependencies**  
