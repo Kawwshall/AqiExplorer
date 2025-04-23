@@ -26,10 +26,7 @@
 
 ## 🎥 **Demo Video**
 
-[![Watch Demo](https://via.placeholder.com/800x450?text=Watch+Demo+Video)](https://www.youtube.com/watch?v=demo-video-id)  
-*Click the image above to watch the full demo of Air Quality Explorer in action.*
-
----
+[![Watch the video](https://img.youtube.com/vi/eP9myPHKeLs/hqdefault.jpg)](https://youtu.be/eP9myPHKeLs)
 
 ## 🛠️ **How It Works**
 
